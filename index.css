@@ -1,0 +1,22 @@
+@media (max-width:480px){
+    #mobile{
+        display: none;
+    }
+    .laptop1{
+        display: none;
+    }
+    #watch{
+        display: none;
+    }
+    .desktop{
+        display: none;
+    }
+    
+}
+
+@media(min-width:569px) and (max-width:769px){
+     #mobile{
+        display: none;
+    }
+
+}
